@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christopher de Boisvilliers</h1>
 <h3 align="center">Passionate about Data Analysis 📈 and statistics 🧮</h3>
 
-- 🔭 I’m just finishing working on [Antenne Reunion](www.antennereunion.fr)
+
 
 - 🌱 I’m currently learning **Attention-Based Transformers**
 
